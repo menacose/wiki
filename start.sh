@@ -1,1 +1,1 @@
-bundle exec jekyll serve --livereload
+npx quartz build -d menacose --serve
