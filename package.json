@@ -1,6 +1,6 @@
 {
   "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "description": "🌱 publish your wiki as a website",
   "private": true,
   "version": "4.5.1",
   "type": "module",
@@ -27,6 +27,7 @@
     "site generator",
     "ssg",
     "digital-garden",
+    "wiki",
     "markdown",
     "blog",
     "quartz"

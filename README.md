@@ -1,19 +1,19 @@
-# MENACOSE Digital Garden 🌱🔥
+# MENACOSE Wiki 🌱🔥
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://menacose.org)
 [![Built with Quartz](https://img.shields.io/badge/Built%20with-Quartz-purple)](https://quartz.jzhao.xyz)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Welcome to the MENACOSE Digital Garden!
+Welcome to the MENACOSE Wiki!
 
 ## 🔥 About MENACOSE
 
 
 ## 🚀 Getting Started
 
-### Viewing the Digital Garden
+### Viewing the Wiki
 
-Visit the published site: **[https://menacose.org](https://menacose.org)**
+Visit the published site: **[https://menacose.org/wiki](https://menacose.org/wiki)**
 
 ### Editing Content with Obsidian
 
@@ -68,7 +68,7 @@ The content lives in the `menacose/` folder as an Obsidian vault. You can edit i
 
 ### Local Development
 
-This digital garden is built with [Quartz 4](https://quartz.jzhao.xyz), a fast, batteries-included static site generator for publishing Obsidian vaults.
+This wiki is built with [Quartz 4](https://quartz.jzhao.xyz), a fast, batteries-included static site generator for publishing Obsidian vaults.
 
 #### Prerequisites
 - Node.js v22+

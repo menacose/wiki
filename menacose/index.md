@@ -1,5 +1,5 @@
 ---
-title: Welcome to Our Digital Garden
+title: Welcome to Our Wiki
 description:
 lang:
 draft: false
